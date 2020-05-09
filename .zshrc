@@ -8,4 +8,12 @@
 # ------------------------------------------------------------------------------
 
 # Default Prompt
-PS1="%F{yellow}%n@mbp: %1~ %#%f "
+# PS1="%F{yellow}%n@mbp: %1~ %#%f "
+
+
+PS1="%F{yellow}andrew: %1~ %#%f "
+
+
+# why didn't this work?
+# Alias for ls -al
+# alias l = "ls -al"
